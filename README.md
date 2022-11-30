@@ -14,6 +14,8 @@
 	git commit
 	git push
 
+![alt text for screen readers](/path/to/image.png "Text to show on mouseover")
+
 
 5. Y los comandos(...) para descargar los cambios del repositorio online o crear otra vez el repositorio en otro ordenador si fuera necesario
 
