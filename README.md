@@ -2,6 +2,8 @@
 
 1. Creamos un repositorio en la pagina web de GitHub
 
+![](https://github.com/toniroigchulia/Ejercicio-1-Practica-A/blob/main/gitinit.png "")
+
 2. Creamos una carpeta donde guardar nuestro proyecto en nuestro ordenador
 
 3. Abrimos la consola de comandos y ejecutamos los siguientes contactos para sincronizar la carpeta con el github
@@ -14,7 +16,7 @@
 	git commit
 	git push
 
-![alt text for screen readers](https://github.com/toniroigchulia/Ejercicio-1-Practica-A/blob/main/unnamed.png "Text to show on mouseover")
+![](https://github.com/toniroigchulia/Ejercicio-1-Practica-A/blob/main/unnamed.png "")
 
 
 5. Y los comandos(...) para descargar los cambios del repositorio online o crear otra vez el repositorio en otro ordenador si fuera necesario
