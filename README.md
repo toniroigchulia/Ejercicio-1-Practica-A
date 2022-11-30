@@ -14,6 +14,9 @@
 	git commit
 	git push
 
+![alt text for screen readers]( "Text to show on mouseover")
+
+
 5. Y los comandos(...) para descargar los cambios del repositorio online o crear otra vez el repositorio en otro ordenador si fuera necesario
 
 	git pull 
